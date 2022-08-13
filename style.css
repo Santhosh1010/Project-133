@@ -1,0 +1,23 @@
+body
+{
+    background-size: cover;
+    background-position: center;
+}
+
+.heading
+{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+}
+
+#anchor
+{
+    background-color: whitesmoke;
+    border-color: black;
+    border-radius: 15px;
+    font-size: 12px;
+    padding: 15px;
+    margin: 15px;
+    width: 100px;
+}
